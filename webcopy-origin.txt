@@ -1,0 +1,700 @@
+Uri: https://investment-company.shop/
+File Name: C:\Downloaded Web Sites\investment-company.shop\index.htm
+Content Type: text/html
+
+Uri: https://investment-company.shop/css/css.css
+File Name: C:\Downloaded Web Sites\investment-company.shop\css\css.css
+Content Type: text/css
+
+Uri: https://investment-company.shop/css/css_custom.css
+File Name: C:\Downloaded Web Sites\investment-company.shop\css\css_custom.css
+Content Type: text/css
+
+Uri: https://investment-company.shop/favicon.ico
+File Name: C:\Downloaded Web Sites\investment-company.shop\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://investment-company.shop/reg-form/intlTelInput.css
+File Name: C:\Downloaded Web Sites\investment-company.shop\reg-form\intlTelInput.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700,900&subset=cyrillic-ext
+File Name: C:\Downloaded Web Sites\investment-company.shop\css.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&subset=cyrillic-ext
+File Name: C:\Downloaded Web Sites\investment-company.shop\css-1.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans+Condensed:700
+File Name: C:\Downloaded Web Sites\investment-company.shop\css-2.css
+Content Type: text/css
+
+Uri: https://investment-company.shop/privacy/
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\index.htm
+Content Type: text/html
+
+Uri: https://investment-company.shop/images/logo.png
+File Name: C:\Downloaded Web Sites\investment-company.shop\images\logo.png
+Content Type: image/png
+
+Uri: https://cdn.trade-academy.pro/video/opo.asia/video.mp4
+File Name: C:\Downloaded Web Sites\investment-company.shop\video\opo.asia\video.mp4
+Content Type: video/mp4
+
+Uri: https://investment-company.shop/images/depo.png
+File Name: C:\Downloaded Web Sites\investment-company.shop\images\depo.png
+Content Type: image/png
+
+Uri: https://investment-company.shop/images/profit.png
+File Name: C:\Downloaded Web Sites\investment-company.shop\images\profit.png
+Content Type: image/png
+
+Uri: https://investment-company.shop/images/uptime.png
+File Name: C:\Downloaded Web Sites\investment-company.shop\images\uptime.png
+Content Type: image/png
+
+Uri: https://investment-company.shop/images/success.png
+File Name: C:\Downloaded Web Sites\investment-company.shop\images\success.png
+Content Type: image/png
+
+Uri: https://investment-company.shop/js/jquery-2.2.4.min.js
+File Name: C:\Downloaded Web Sites\investment-company.shop\js\jquery-2.2.4.min.js
+Content Type: application/javascript
+
+Uri: https://investment-company.shop/js/bootstrap.js
+File Name: C:\Downloaded Web Sites\investment-company.shop\js\bootstrap.js
+Content Type: application/javascript
+
+Uri: https://investment-company.shop/geo.js
+File Name: C:\Downloaded Web Sites\investment-company.shop\geo.js
+Content Type: application/javascript
+
+Uri: https://investment-company.shop/reg-form/reg.min.v2.js
+File Name: C:\Downloaded Web Sites\investment-company.shop\reg-form\reg.min.v2.js
+Content Type: application/javascript
+
+Uri: https://investment-company.shop/js/main.js
+File Name: C:\Downloaded Web Sites\investment-company.shop\js\main.js
+Content Type: application/javascript
+
+Uri: https://investment-company.shop/fonts/fontawesome-webfont.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/fonts/fontawesome-webfont.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\fonts\fontawesome-webfont.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/images/background.jpg
+File Name: C:\Downloaded Web Sites\investment-company.shop\images\background.jpg
+Content Type: image/jpeg
+
+Uri: https://investment-company.shop/images/overlay.png
+File Name: C:\Downloaded Web Sites\investment-company.shop\images\overlay.png
+Content Type: image/png
+
+Uri: https://investment-company.shop/images/man-1.png
+File Name: C:\Downloaded Web Sites\investment-company.shop\images\man-1.png
+Content Type: image/png
+
+Uri: https://investment-company.shop/images/man-2.jpg
+File Name: C:\Downloaded Web Sites\investment-company.shop\images\man-2.jpg
+Content Type: image/jpeg
+
+Uri: https://investment-company.shop/reg-form/flags.png
+File Name: C:\Downloaded Web Sites\investment-company.shop\reg-form\flags.png
+Content Type: image/png
+
+Uri: https://investment-company.shop/reg-form/flags@2x.png
+File Name: C:\Downloaded Web Sites\investment-company.shop\reg-form\flags@2x.png
+Content Type: image/png
+
+Uri: https://investment-company.shop/privacy/css/style.css
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\css\style.css
+Content Type: text/css
+
+Uri: https://investment-company.shop/privacy/fonts/stylesheet_geometria.css
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\stylesheet_geometria.css
+Content Type: text/css
+
+Uri: https://investment-company.shop/privacy/fonts/stylesheet_gilroy.css
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\stylesheet_gilroy.css
+Content Type: text/css
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-Thin.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-Thin.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-Thin.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-Thin-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-Thin.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-Thin.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-Thin.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-Thin.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-MediumItalic.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-MediumItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-MediumItalic.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-MediumItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-MediumItalic.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-MediumItalic.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-MediumItalic.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-MediumItalic.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-Italic.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-Italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-Italic.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-Italic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-Italic.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-Italic.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-Italic.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-Italic.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-Heavy.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-Heavy.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-Heavy.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-Heavy-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-Heavy.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-Heavy.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-Heavy.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-Heavy.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-ExtraBoldItalic.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-ExtraBoldItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-ExtraBoldItalic.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-ExtraBoldItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-ExtraBoldItalic.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-ExtraBoldItalic.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-ExtraBoldItalic.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-ExtraBoldItalic.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-Medium.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-Medium.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-Medium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-Medium.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-Medium.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-Medium.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-Medium.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-BoldItalic.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-BoldItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-BoldItalic.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-BoldItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-BoldItalic.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-BoldItalic.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-BoldItalic.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-BoldItalic.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-LightItalic.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-LightItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-LightItalic.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-LightItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-LightItalic.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-LightItalic.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-LightItalic.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-LightItalic.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-HeavyItalic.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-HeavyItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-HeavyItalic.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-HeavyItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-HeavyItalic.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-HeavyItalic.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-HeavyItalic.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-HeavyItalic.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-Bold.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-Bold.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-Bold.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-Bold.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-Bold.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-Bold.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-ExtraBold.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-ExtraBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-ExtraBold.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-ExtraBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-ExtraBold.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-ExtraBold.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-ExtraBold.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-ExtraBold.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-ThinItalic.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-ThinItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-ThinItalic.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-ThinItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-ThinItalic.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-ThinItalic.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-ThinItalic.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-ThinItalic.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-ExtraLightItalic.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-ExtraLightItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-ExtraLightItalic.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-ExtraLightItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-ExtraLightItalic.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-ExtraLightItalic.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-ExtraLightItalic.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-ExtraLightItalic.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-Light.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-Light.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-Light-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-Light.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-Light.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-Light.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-Light.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-ExtraLight.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-ExtraLight.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-ExtraLight.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-ExtraLight-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-ExtraLight.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-ExtraLight.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Geometria-ExtraLight.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Geometria-ExtraLight.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-ExtraBold.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-ExtraBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-ExtraBold.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-ExtraBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-ExtraBold.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-ExtraBold.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-ExtraBold.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-ExtraBold.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-Heavy.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-Heavy.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-Heavy.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-Heavy-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-Heavy.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-Heavy.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-Heavy.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-Heavy.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-LightItalic.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-LightItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-LightItalic.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-LightItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-LightItalic.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-LightItalic.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-LightItalic.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-LightItalic.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-ThinItalic.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-ThinItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-ThinItalic.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-ThinItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-ThinItalic.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-ThinItalic.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-ThinItalic.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-ThinItalic.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-BlackItalic.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-BlackItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-BlackItalic.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-BlackItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-BlackItalic.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-BlackItalic.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-BlackItalic.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-BlackItalic.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-BoldItalic.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-BoldItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-BoldItalic.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-BoldItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-BoldItalic.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-BoldItalic.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-BoldItalic.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-BoldItalic.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-SemiBold.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-SemiBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-SemiBold.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-SemiBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-SemiBold.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-SemiBold.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-SemiBold.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-SemiBold.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-UltraLightItalic.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-UltraLightItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-UltraLightItalic.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-UltraLightItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-UltraLightItalic.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-UltraLightItalic.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-UltraLightItalic.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-UltraLightItalic.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-SemiBoldItalic.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-SemiBoldItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-SemiBoldItalic.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-SemiBoldItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-SemiBoldItalic.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-SemiBoldItalic.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-SemiBoldItalic.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-SemiBoldItalic.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-Light.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-Light.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-Light-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-Light.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-Light.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-Light.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-Light.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-MediumItalic.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-MediumItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-MediumItalic.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-MediumItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-MediumItalic.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-MediumItalic.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-MediumItalic.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-MediumItalic.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-ExtraBoldItalic.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-ExtraBoldItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-ExtraBoldItalic.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-ExtraBoldItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-ExtraBoldItalic.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-ExtraBoldItalic.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-ExtraBoldItalic.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-ExtraBoldItalic.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-Regular.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-Regular.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-Regular.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-Regular.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-Regular.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-Regular.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-HeavyItalic.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-HeavyItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-HeavyItalic.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-HeavyItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-HeavyItalic.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-HeavyItalic.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-HeavyItalic.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-HeavyItalic.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-Medium.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-Medium.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-Medium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-Medium.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-Medium.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-Medium.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-Medium.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-RegularItalic.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-RegularItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-RegularItalic.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-RegularItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-RegularItalic.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-RegularItalic.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-RegularItalic.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-RegularItalic.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-UltraLight.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-UltraLight.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-UltraLight.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-UltraLight-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-UltraLight.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-UltraLight.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-UltraLight.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-UltraLight.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-Bold.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-Bold.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-Bold.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-Bold.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-Bold.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-Bold.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-Thin.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-Thin.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-Thin.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-Thin-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-Thin.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-Thin.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-Thin.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-Thin.ttf.html
+Content Type: text/html
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-Black.eot
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-Black.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-Black.eot?
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-Black-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-Black.woff
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-Black.woff
+Content Type: font/woff
+
+Uri: https://investment-company.shop/privacy/fonts/Gilroy-Black.ttf
+File Name: C:\Downloaded Web Sites\investment-company.shop\privacy\fonts\Gilroy-Black.ttf.html
+Content Type: text/html
+
